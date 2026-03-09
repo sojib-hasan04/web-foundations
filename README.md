@@ -12,3 +12,6 @@ HTML practice from freeCodeCamp Responsive Web Design.
   Tribute page with semantic tags, blockquotes, citations.  
   [View → quincys-tips/index.html](quincys-tips/index.html)
 
+- **Event Hub**  
+  Event listing page with upcoming & past sections.  
+  [View → event-hub/index.html](event-hub/index.html)
