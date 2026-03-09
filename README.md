@@ -15,3 +15,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
 - **Event Hub**  
   Event listing page with upcoming & past sections.  
   [View → event-hub/index.html](event-hub/index.html)
+
+- **Whiskers Blog**  
+  Personal blog page with semantic structure, navigation, and sections.  
+  [View → whiskers-blog/index.html](whiskers-blog/index.html)
