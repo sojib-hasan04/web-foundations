@@ -51,3 +51,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
   - **Multimedia Player**  
   Interactive media page with audio, video, subtitles, and transcript.  
   [View → multimedia-player/index.html](multimedia-player/index.html)
+
+- **Checkout Page**  
+  Simple checkout form with cart summary, payment inputs, and accessibility features.  
+  [View → checkout-page/index.html](checkout-page/index.html)
