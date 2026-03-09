@@ -47,3 +47,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
 - **Movie Review**  
   Simple movie review page with title, rating, cast list, and image.  
   [View → movie-review/index.html](movie-review/index.html)
+
+  - **Multimedia Player**  
+  Interactive media page with audio, video, subtitles, and transcript.  
+  [View → multimedia-player/index.html](multimedia-player/index.html)
