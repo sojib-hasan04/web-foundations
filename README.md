@@ -59,4 +59,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
 - **Accessible Controls**  
   Audio player controls with accessibility features (aria labels & descriptions).  
   [View → accessible-controls/index.html](accessible-controls/index.html)
-  
+
+  - **Frontend Iframe Demo**  
+  Video compilation page with embedded YouTube iframes explaining HTML, CSS, and JavaScript.  
+  [View → frontend-iframe-demo/index.html](frontend-iframe-demo/index.html)
