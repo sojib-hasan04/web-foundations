@@ -23,3 +23,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
 - **Cat Photo Blog**  
   Simple cat-themed blog with images, lists, and contact form.  
   [View → cat-photo-blog/index.html](cat-photo-blog/index.html)
+
+- **Book Catalog**  
+  Simple table-based catalog with books, authors, genres, and years.  
+  [View → book-catalog/index.html](book-catalog/index.html)
