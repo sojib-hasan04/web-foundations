@@ -31,3 +31,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
 - **Bookstore Cards**  
   Simple book catalog with card layout and buy buttons.  
   [View → bookstore-cards/index.html](bookstore-cards/index.html)
+
+  - **Travel Itineraries**  
+  Travel page with packages, top itineraries, and images.  
+  [View → travel-itineraries/index.html](travel-itineraries/index.html)
