@@ -43,3 +43,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
   - **Birani Survey**  
   Fun Bengali survey form for biryani lovers with inputs, radio, checkbox, and textarea.  
   [View → birani-survey/index.html](birani-survey/index.html)
+
+- **Movie Review**  
+  Simple movie review page with title, rating, cast list, and image.  
+  [View → movie-review/index.html](movie-review/index.html)
