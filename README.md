@@ -67,3 +67,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
 - **Audio Video **  
   HTML lab with embedded audio player and video player (controls, loop, muted).  
   [View → audio-video-lab/index.html](audio-video-lab/index.html)
+
+- **Heart SVG Icon**  
+  Simple SVG heart icon with blue fill.  
+  [View → heart-svg-icon/index.html](heart-svg-icon/index.html)
