@@ -27,3 +27,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
 - **Book Catalog**  
   Simple table-based catalog with books, authors, genres, and years.  
   [View → book-catalog/index.html](book-catalog/index.html)
+
+- **Bookstore Cards**  
+  Simple book catalog with card layout and buy buttons.  
+  [View → bookstore-cards/index.html](bookstore-cards/index.html)
