@@ -35,3 +35,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
   - **Travel Itineraries**  
   Travel page with packages, top itineraries, and images.  
   [View → travel-itineraries/index.html](travel-itineraries/index.html)
+
+- **Conference Schedule**  
+  Tech conference timetable with tracks and time slots using semantic table.  
+  [View → conference-schedule/index.html](conference-schedule/index.html)
