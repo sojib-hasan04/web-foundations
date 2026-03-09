@@ -19,3 +19,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
 - **Whiskers Blog**  
   Personal blog page with semantic structure, navigation, and sections.  
   [View → whiskers-blog/index.html](whiskers-blog/index.html)
+
+- **Cat Photo Blog**  
+  Simple cat-themed blog with images, lists, and contact form.  
+  [View → cat-photo-blog/index.html](cat-photo-blog/index.html)
