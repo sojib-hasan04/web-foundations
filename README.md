@@ -39,3 +39,7 @@ HTML practice from freeCodeCamp Responsive Web Design.
 - **Conference Schedule**  
   Tech conference timetable with tracks and time slots using semantic table.  
   [View → conference-schedule/index.html](conference-schedule/index.html)
+
+  - **Birani Survey**  
+  Fun Bengali survey form for biryani lovers with inputs, radio, checkbox, and textarea.  
+  [View → birani-survey/index.html](birani-survey/index.html)
