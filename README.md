@@ -55,3 +55,8 @@ HTML practice from freeCodeCamp Responsive Web Design.
 - **Checkout Page**  
   Simple checkout form with cart summary, payment inputs, and accessibility features.  
   [View → checkout-page/index.html](checkout-page/index.html)
+
+- **Accessible Controls**  
+  Audio player controls with accessibility features (aria labels & descriptions).  
+  [View → accessible-controls/index.html](accessible-controls/index.html)
+  
