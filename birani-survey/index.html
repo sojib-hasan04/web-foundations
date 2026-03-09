@@ -1,0 +1,52 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+</head>
+
+<body>
+<h1 id="title">birani premider jorip 2026</h1>
+<p id="description">sera  birani kuje pete amader ke apnar motamot din।</p>
+
+<form id="survey-form">
+    <label id="name-label" for="name">apnar nam</label>
+    <input id="name" type="text" placeholder="sojib ahmed" required>
+
+    <label id="email-label" for="email">apnar email:</label>
+    <input id="email" type="email" placeholder="example@mail.com" required>
+
+    <label id="number-label" for="number">apnar boys:</label>
+    <input id="number" type="number" placeholder="১৮" min="10" max="100">
+
+    <p>apnar prio biranir doron:</p>
+    <select id="dropdown">
+        <option value="" disabled selected>ekta pochonder nam</option>
+        <option value="kacchi">kacchi birani</option>
+        <option value="chicken">chiken birani</option>
+    </select>
+
+    <p>birani poriman kemon hobe</p>
+    <label>
+        <input type="radio" name="portion" value="half" checked> haif plate
+    </label>
+    <label>
+        <input type="radio" name="portion" value="full"> full flate
+    </label>
+
+    <p>sathe ar ki ki lagbe(tik den)</p>
+    <label>
+        <input type="checkbox" value="alu"> exta alu
+    </label>
+    <label>
+        <input type="checkbox" value="borhani"> bhurhani
+    </label>
+
+    <p>bisesh kunu onurudh:</p>
+    <textarea id="comments" name="comments" placeholder="ekane likun..."></textarea>
+
+    <button id="submit" type="submit">জমা দিন</button>
+</form>
+</body>
+</html>
